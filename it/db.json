@@ -13,13 +13,6 @@
       "tech": "Mike Lorenz",
       "date": "2019-08-21T06:23:11.997Z",
       "id": 2
-    },
-    {
-      "message": "1122 wireless down",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2019-08-21T06:23:47.797Z",
-      "id": 3
     }
   ],
   "techs": [
