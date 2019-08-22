@@ -3,9 +3,9 @@
     {
       "id": 1,
       "message": "Change network card in server 0007",
-      "attention": false,
-      "tech": "Anna Smith",
-      "date": "2019-08-22T05:22:34.649Z"
+      "attention": true,
+      "tech": "Mike Lorenz",
+      "date": "2019-08-22T05:32:46.661Z"
     },
     {
       "id": 3,
@@ -13,6 +13,13 @@
       "attention": false,
       "tech": "John Doe",
       "date": "2019-08-22T05:22:59.402Z"
+    },
+    {
+      "id": 4,
+      "message": "update123",
+      "attention": true,
+      "tech": "Anna Smith",
+      "date": "2019-08-22T05:37:50.283Z"
     }
   ],
   "techs": [
