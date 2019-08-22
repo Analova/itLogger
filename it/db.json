@@ -1,18 +1,18 @@
 {
   "logs": [
     {
+      "id": 1,
       "message": "Change network card in server 0007",
-      "attention": true,
+      "attention": false,
       "tech": "Anna Smith",
-      "date": "2019-08-21T06:22:08.879Z",
-      "id": 1
+      "date": "2019-08-22T05:22:34.649Z"
     },
     {
-      "message": "Hard drive failed in station 002",
+      "id": 3,
+      "message": "Fix the server 0111",
       "attention": false,
-      "tech": "Mike Lorenz",
-      "date": "2019-08-21T06:23:11.997Z",
-      "id": 2
+      "tech": "John Doe",
+      "date": "2019-08-22T05:22:59.402Z"
     }
   ],
   "techs": [
