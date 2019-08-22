@@ -13,13 +13,6 @@
       "attention": false,
       "tech": "John Doe",
       "date": "2019-08-22T05:22:59.402Z"
-    },
-    {
-      "id": 4,
-      "message": "update123",
-      "attention": true,
-      "tech": "Anna Smith",
-      "date": "2019-08-22T05:37:50.283Z"
     }
   ],
   "techs": [
@@ -37,21 +30,6 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
-    },
-    {
-      "firstName": "Daniel",
-      "lastName": "Jason",
-      "id": 4
-    },
-    {
-      "firstName": "Ana",
-      "lastName": "Nikolova",
-      "id": 5
-    },
-    {
-      "firstName": "Bob ",
-      "lastName": "Marley",
-      "id": 6
     }
   ]
 }
